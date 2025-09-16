@@ -1,0 +1,5 @@
+requests
+fastapi
+pandas
+numpy
+chromadb
